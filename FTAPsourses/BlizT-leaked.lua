@@ -1,4 +1,3 @@
--- leaked by vhck
 game.Players.LocalPlayer:SetAttribute("RG", "YJMZg8bAH8")
 
 
