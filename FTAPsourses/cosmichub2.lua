@@ -1,4 +1,3 @@
---crack by:magfun_legend
 MoonSec_StringsHiddenAttr = true;
 if _wURGUJXwOJhV == "This file was protected with MoonSec V3" then
     local l_Players_0 = game:GetService("Players");
