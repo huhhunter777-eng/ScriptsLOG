@@ -1,4 +1,3 @@
--- Crack by:magfun_legend
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local W = game:GetService("Workspace")
