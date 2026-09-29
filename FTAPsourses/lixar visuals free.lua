@@ -1,5 +1,3 @@
---lixar visuals tgk lixarvisuals
-
 local Player = game.Players.LocalPlayer
 local UIS = game:GetService("UserInputService")
 local Lighting = game:GetService("Lighting")
